@@ -9,6 +9,7 @@ public class MainView extends Composite{
 	private VerticalPanel vPanel = new VerticalPanel();
 	private VerticalPanel contentPanel;
 	private Integer o = new Integer (3);
+	String aneuer= "Die ist richtig so";
 	public MainView(){
 		
 		
