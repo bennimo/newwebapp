@@ -1,13 +1,14 @@
 package com.example.myNewProject.client;
 
 import com.google.gwt.user.client.ui.Composite;
+
 import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.VerticalPanel;
 
 public class MainView extends Composite{
 	private VerticalPanel vPanel = new VerticalPanel();
 	private VerticalPanel contentPanel;
-	
+	private Integer o = new Integer (3);
 	public MainView(){
 		
 		
