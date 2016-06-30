@@ -7,6 +7,7 @@ import com.google.gwt.user.client.ui.VerticalPanel;
 public class MainView extends Composite{
 	private VerticalPanel vPanel = new VerticalPanel();
 	private VerticalPanel contentPanel;
+	private String s;
 	
 	public MainView(){
 		
